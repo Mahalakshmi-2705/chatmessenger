@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271717291535",
+    "project_id": "chatmessenger-master-a98f7",
+    "storage_bucket": "chatmessenger-master-a98f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271717291535:android:3e79d1ab3fc14cdab5b57a",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkUwtZ11vZeqZZKn1gxoaH34vwhVZ966M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
